@@ -1,4 +1,4 @@
-# DS_SolarPanel_Defect_Detection_using_DeepLearning
+# SolarPanel_Defect_Detection_using_DeepLearning
 
 🌞 Solar Panel Defect Detection using Deep Learning and Streamlit
 A complete end-to-end deep learning pipeline to detect and classify defects in solar panels using PyTorch CNN models. This project includes data cleaning, augmentation, training multiple models (Basic CNN, ResNet18, EfficientNet-B0, and MobileNetV2), and deploying the best model through a Streamlit web app.
