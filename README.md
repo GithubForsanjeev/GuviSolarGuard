@@ -98,6 +98,5 @@ Displays label and confidence
 Clean and intuitive UI
 
 ## 📄 Project Report
-Solar_Panel_Defect_Detection_Report.docx
-
+SolarGaurd.docx
 
